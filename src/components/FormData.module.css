@@ -1,0 +1,20 @@
+.formData{
+    display: inline-block;
+    margin: 0px auto;
+    min-width: 400px;
+    background-color: rgb(108, 126, 119);
+    padding: 25px;
+    color: rgb(0, 0, 0);
+    border: 1px solid black;
+    border-radius: 5px;
+    box-shadow: 10px 10px 10px;
+}
+    .formData table{
+        text-align: left;
+    }
+        .formData table td{
+            padding: 10px;
+        }
+        .formData table tr :nth-child(odd){
+            font-weight: bold;
+        }

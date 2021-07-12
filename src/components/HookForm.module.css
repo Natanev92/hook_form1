@@ -1,0 +1,27 @@
+.form{
+    display: inline-block;
+    margin: 50px auto;
+    padding: 25px;
+    background-color: rgb(108, 126, 119);
+    color: rgb(0, 0, 0);
+    border: 1px solid black;
+    border-radius: 5px;
+    box-shadow: 10px 10px 10px;
+    font-weight: bold;
+}
+    .form table{ 
+        text-align: left;
+    }
+    .form table td{
+        padding: 15px;
+    }
+    .form button{
+        background: linear-gradient(to bottom, rgb(40, 62, 48), white);
+        border-radius: 3px;
+        padding: 5px 20px;
+        box-shadow: 2px 2px;
+    }
+        .form button:hover{
+            
+            background: linear-gradient(to bottom, rgb(100, 100, 100), rgb(200, 200, 200));
+        }
