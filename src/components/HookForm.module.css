@@ -25,3 +25,15 @@
             
             background: linear-gradient(to bottom, rgb(100, 100, 100), rgb(200, 200, 200));
         }
+
+        .valid{
+            color: rgb(7, 55, 7);
+            font-weight: normal;
+            font-size: 15px;
+        }
+        
+        .invalid{
+            color: rgb(150, 17, 17);
+            font-weight: normal;
+            font-size: 15px;
+        }
